@@ -1,0 +1,12 @@
+{
+    "name": "gabri/php",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gabrielvillela17/compos.git"
+        }
+    ],
+    "require": {
+        "ext-apcu": "*"
+    }
+}
